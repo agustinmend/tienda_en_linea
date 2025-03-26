@@ -1,0 +1,14 @@
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\bin\Debug\net8.0\Tienda.exe
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\bin\Debug\net8.0\Tienda.deps.json
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\bin\Debug\net8.0\Tienda.runtimeconfig.json
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\bin\Debug\net8.0\Tienda.dll
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\bin\Debug\net8.0\Tienda.pdb
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.AssemblyInfoInputs.cache
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.AssemblyInfo.cs
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.csproj.CoreCompileInputs.cache
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.dll
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\refint\Tienda.dll
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.pdb
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.genruntimeconfig.cache
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\ref\Tienda.dll
