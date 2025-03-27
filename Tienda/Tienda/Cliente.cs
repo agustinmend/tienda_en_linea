@@ -58,5 +58,29 @@ namespace Tienda
         {
             return apellidos;
         }
+        public void busqueda(string abreviacion , Inventario inventario)
+        {
+            for(int i = 0; i < inventario.obtener_categorias().Count; ++i)
+            {
+                List<Producto> productos = inventario.obtener_categorias()[i].obtener_productos();
+                for(int j = 0; j < productos.Count; ++j)
+                {
+                    bool mostrar = true;
+                    string nombre_producto = productos[j].obtener_nombre();
+                    for(int k = 0; k < abreviacion.Length; ++k)
+                    {
+                        if (nombre_producto[k] != abreviacion[k])
+                        {
+                            mostrar = false;
+                            break;
+                        }
+                    }
+                    if(mostrar)
+                    {
+                        Console.WriteLine(productos[j].obtener_nombre());
+                    }
+                }
+            }
+        }
     }
 }

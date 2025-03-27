@@ -109,5 +109,9 @@ namespace Tienda
                 }
             }
         }
+        public List<Categoria_Producto> obtener_categorias()
+        {
+            return inventario;
+        }
     }
 }

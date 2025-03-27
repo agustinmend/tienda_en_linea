@@ -7,40 +7,40 @@
       "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\categoria_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\categoria_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|solutionrelative:tienda\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7026768-526D-4216-93DE-0B885BB9B2FA}|Tienda\\Tienda.csproj|d:\\agustin\\universidad\\3er semestre\\progra ii\\tiendaonline\\tienda\\tienda\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Tienda\\Program.cs",
               "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Program.cs",
               "RelativeToolTip": "Tienda\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwEMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAEwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T17:15:29.421Z",
               "IsPinned": true,
@@ -72,27 +72,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Tienda.cs",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Tienda.cs",
               "RelativeDocumentMoniker": "Tienda\\Tienda.cs",
               "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Tienda.cs",
               "RelativeToolTip": "Tienda\\Tienda.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T18:45:00.319Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Inventario.cs",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Inventario.cs",
               "RelativeDocumentMoniker": "Tienda\\Inventario.cs",
               "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Inventario.cs",
               "RelativeToolTip": "Tienda\\Inventario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAHEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T02:19:54.789Z",
               "IsPinned": true,
@@ -100,26 +99,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Categoria_Producto.cs",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Categoria_Producto.cs",
               "RelativeDocumentMoniker": "Tienda\\Categoria_Producto.cs",
               "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Categoria_Producto.cs",
               "RelativeToolTip": "Tienda\\Categoria_Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T23:44:42.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Cliente.cs",
               "RelativeDocumentMoniker": "Tienda\\Cliente.cs",
               "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Cliente.cs",
               "RelativeToolTip": "Tienda\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T14:13:03.446Z",
               "EditorCaption": ""
@@ -139,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Pedido.cs",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Pedido.cs",
               "RelativeDocumentMoniker": "Tienda\\Pedido.cs",
@@ -152,20 +151,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Producto.cs",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Producto.cs",
               "RelativeDocumentMoniker": "Tienda\\Producto.cs",
               "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Producto.cs",
               "RelativeToolTip": "Tienda\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T23:44:13.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Carrito.cs",
+              "RelativeDocumentMoniker": "Tienda\\Carrito.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Carrito.cs",
+              "RelativeToolTip": "Tienda\\Carrito.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:42:30.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Usuario.cs",
               "RelativeDocumentMoniker": "Tienda\\Usuario.cs",
@@ -173,21 +185,7 @@
               "RelativeToolTip": "Tienda\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T17:18:18.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Carrito.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Carrito.cs",
-              "RelativeDocumentMoniker": "Tienda\\Carrito.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\3er semestre\\Progra II\\tiendaonline\\Tienda\\Tienda\\Carrito.cs",
-              "RelativeToolTip": "Tienda\\Carrito.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T23:42:30.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T17:18:18.604Z"
             },
             {
               "$type": "Document",
@@ -199,8 +197,7 @@
               "RelativeToolTip": "Tienda\\Administrador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:17:33.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T14:17:33.623Z"
             }
           ]
         }

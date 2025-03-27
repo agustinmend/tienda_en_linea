@@ -31,6 +31,7 @@ namespace Tienda
                     Console.WriteLine("Escriba 'cerrar' para cerrar sesion");
                     Console.WriteLine("Escriba 'vaciar' para vaciar carrito");
                     Console.WriteLine("Escriba 'comprar' para comprar productos del carrito");
+                    Console.WriteLine("Escriba 'buscar' para buscar producto");
                     tienda.mostrar_categorias();
                     string respuesta = Console.ReadLine();
                     if(respuesta == "ver")
@@ -61,6 +62,13 @@ namespace Tienda
                         {
                             tienda.obtener_cliente().obtener_ultimo_pedido().obtener_factura().mostrar_factura();
                         }
+                    }
+                    else if(respuesta == "buscar")
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Ingrese nombre del producto");
+                        string abreviacion = Console.ReadLine();
+                        tienda.obtener_cliente().busqueda(abreviacion, tienda.obtener_inventario());
                     }
                     else
                     {

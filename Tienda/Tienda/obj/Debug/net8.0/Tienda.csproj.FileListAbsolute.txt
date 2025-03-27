@@ -12,3 +12,4 @@ D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Deb
 D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.pdb
 D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.genruntimeconfig.cache
 D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\ref\Tienda.dll
+D:\Agustin\Universidad\3er semestre\Progra II\tiendaonline\Tienda\Tienda\obj\Debug\net8.0\Tienda.sourcelink.json
